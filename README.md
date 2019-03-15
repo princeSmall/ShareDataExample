@@ -1,6 +1,7 @@
 ### ShareDataExample
 
 #### 黏贴版
+复制黏贴模式实现数据分享
 <pre>
 - (void)removePasteboardAtIndexes:(NSIndexSet *)indexes{
     [self.pasteboard setString:@""];
@@ -47,3 +48,11 @@
 - (void)selectAll:(id)sender{
 }
 </pre>
+
+#### URLType
+
+路由模式跳转实现数据分享
+
+![FirstMethod](https://raw.githubusercontent.com/princeSmall/ShareDataExample/master/URLType.png)
+
+![SecondMethod](https://raw.githubusercontent.com/princeSmall/ShareDataExample/master/URLTypeF.png)
