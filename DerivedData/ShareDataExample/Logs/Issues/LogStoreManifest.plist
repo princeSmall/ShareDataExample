@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>FF421A6B-DC61-4FBE-AD0B-1FB29FCB1DB3</key>
+		<key>73ADB984-E7AC-4666-A2AF-33AA8E52762F</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,19 +15,42 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>FF421A6B-DC61-4FBE-AD0B-1FB29FCB1DB3.xcactivitylog</string>
+			<string>73ADB984-E7AC-4666-A2AF-33AA8E52762F.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>signature</key>
 			<string>ShareDataExample-gnnrfoildlcdmvbayrbdqrgulqxn</string>
 			<key>timeStartedRecording</key>
-			<real>574586162.969033</real>
+			<real>574595208.17374301</real>
 			<key>timeStoppedRecording</key>
-			<real>574586163.06921005</real>
+			<real>574595208.33330297</real>
 			<key>title</key>
 			<string>Build target ShareDataExample</string>
 			<key>uniqueIdentifier</key>
-			<string>FF421A6B-DC61-4FBE-AD0B-1FB29FCB1DB3</string>
+			<string>73ADB984-E7AC-4666-A2AF-33AA8E52762F</string>
+		</dict>
+		<key>A0F4BB81-558A-4316-831E-299D9C5DC895</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>A0F4BB81-558A-4316-831E-299D9C5DC895.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>shareExtention-gnnrfoildlcdmvbayrbdqrgulqxn</string>
+			<key>timeStartedRecording</key>
+			<real>574590623.13296604</real>
+			<key>timeStoppedRecording</key>
+			<real>574590623.58663595</real>
+			<key>title</key>
+			<string>Build target shareExtention</string>
+			<key>uniqueIdentifier</key>
+			<string>A0F4BB81-558A-4316-831E-299D9C5DC895</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

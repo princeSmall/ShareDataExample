@@ -6,6 +6,29 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
+		<key>2739A4C5-87A2-4125-8859-EF999E5B62E4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2739A4C5-87A2-4125-8859-EF999E5B62E4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>Debug iOS.ShareDataExample.shareExtention</string>
+			<key>timeStartedRecording</key>
+			<real>574592649.05568504</real>
+			<key>timeStoppedRecording</key>
+			<real>574594409.67642498</real>
+			<key>title</key>
+			<string>Debug iOS.ShareDataExample.shareExtention</string>
+			<key>uniqueIdentifier</key>
+			<string>2739A4C5-87A2-4125-8859-EF999E5B62E4</string>
+		</dict>
 		<key>5085B9EC-5A4E-4F75-9B7C-A64F9282A09F</key>
 		<dict>
 			<key>className</key>
@@ -34,6 +57,191 @@
 			<string>Debug ShareDataExample</string>
 			<key>uniqueIdentifier</key>
 			<string>5085B9EC-5A4E-4F75-9B7C-A64F9282A09F</string>
+		</dict>
+		<key>52020E66-2FD8-454E-A99B-18420C1D9DE3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>52020E66-2FD8-454E-A99B-18420C1D9DE3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>Debug iOS.ShareDataExample.shareExtention</string>
+			<key>timeStartedRecording</key>
+			<real>574589876.03655803</real>
+			<key>timeStoppedRecording</key>
+			<real>574590271.90920603</real>
+			<key>title</key>
+			<string>Debug iOS.ShareDataExample.shareExtention</string>
+			<key>uniqueIdentifier</key>
+			<string>52020E66-2FD8-454E-A99B-18420C1D9DE3</string>
+		</dict>
+		<key>6405BB83-3884-4A46-B33B-163C8B46A156</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6405BB83-3884-4A46-B33B-163C8B46A156.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShareDataExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>shareExtention</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug MobileSafari.app</string>
+			<key>timeStartedRecording</key>
+			<real>574589119.55823302</real>
+			<key>timeStoppedRecording</key>
+			<real>574589262.00398397</real>
+			<key>title</key>
+			<string>Debug MobileSafari.app</string>
+			<key>uniqueIdentifier</key>
+			<string>6405BB83-3884-4A46-B33B-163C8B46A156</string>
+		</dict>
+		<key>64104154-C034-416B-803E-5F28DA951B45</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>64104154-C034-416B-803E-5F28DA951B45.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>Debug iOS.ShareDataExample.shareExtention</string>
+			<key>timeStartedRecording</key>
+			<real>574590638.75335801</real>
+			<key>timeStoppedRecording</key>
+			<real>574591751.42999399</real>
+			<key>title</key>
+			<string>Debug iOS.ShareDataExample.shareExtention</string>
+			<key>uniqueIdentifier</key>
+			<string>64104154-C034-416B-803E-5F28DA951B45</string>
+		</dict>
+		<key>651D76B8-4479-4C55-9DF7-0ECCB69F3CF5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>651D76B8-4479-4C55-9DF7-0ECCB69F3CF5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShareDataExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>shareExtention</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug MobileSafari.app</string>
+			<key>timeStartedRecording</key>
+			<real>574589262.06526196</real>
+			<key>timeStoppedRecording</key>
+			<real>574589404.97239602</real>
+			<key>title</key>
+			<string>Debug MobileSafari.app</string>
+			<key>uniqueIdentifier</key>
+			<string>651D76B8-4479-4C55-9DF7-0ECCB69F3CF5</string>
+		</dict>
+		<key>6DB9B2BB-038F-438B-BE67-68ED32D0F9D0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6DB9B2BB-038F-438B-BE67-68ED32D0F9D0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>Debug iOS.ShareDataExample.shareExtention</string>
+			<key>timeStartedRecording</key>
+			<real>574590292.81332004</real>
+			<key>timeStoppedRecording</key>
+			<real>574590623.38856101</real>
+			<key>title</key>
+			<string>Debug iOS.ShareDataExample.shareExtention</string>
+			<key>uniqueIdentifier</key>
+			<string>6DB9B2BB-038F-438B-BE67-68ED32D0F9D0</string>
+		</dict>
+		<key>77253878-EAAC-4D68-9294-61502772B7B4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>77253878-EAAC-4D68-9294-61502772B7B4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShareDataExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>shareExtention</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug MobileSafari.app</string>
+			<key>timeStartedRecording</key>
+			<real>574590277.28512597</real>
+			<key>timeStoppedRecording</key>
+			<real>574590623.078987</real>
+			<key>title</key>
+			<string>Debug MobileSafari.app</string>
+			<key>uniqueIdentifier</key>
+			<string>77253878-EAAC-4D68-9294-61502772B7B4</string>
+		</dict>
+		<key>8D390EDC-D589-43B9-AB08-F4C6CE1933C8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8D390EDC-D589-43B9-AB08-F4C6CE1933C8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShareDataExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>shareExtention</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug MobileSafari.app</string>
+			<key>timeStartedRecording</key>
+			<real>574590623.67359602</real>
+			<key>timeStoppedRecording</key>
+			<real>574591751.05461597</real>
+			<key>title</key>
+			<string>Debug MobileSafari.app</string>
+			<key>uniqueIdentifier</key>
+			<string>8D390EDC-D589-43B9-AB08-F4C6CE1933C8</string>
 		</dict>
 		<key>9DDFA3F6-62EA-4997-9173-6CBCC012319B</key>
 		<dict>
@@ -64,6 +272,35 @@
 			<key>uniqueIdentifier</key>
 			<string>9DDFA3F6-62EA-4997-9173-6CBCC012319B</string>
 		</dict>
+		<key>A7CA60AA-34B3-417D-AD6B-4D1461A07BCA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A7CA60AA-34B3-417D-AD6B-4D1461A07BCA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShareDataExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>shareExtention</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug MobileSafari.app</string>
+			<key>timeStartedRecording</key>
+			<real>574591763.11601102</real>
+			<key>timeStoppedRecording</key>
+			<real>574594409.26043296</real>
+			<key>title</key>
+			<string>Debug MobileSafari.app</string>
+			<key>uniqueIdentifier</key>
+			<string>A7CA60AA-34B3-417D-AD6B-4D1461A07BCA</string>
+		</dict>
 		<key>AE6873F7-C17F-4B0F-8B86-8EF8C25B47E9</key>
 		<dict>
 			<key>className</key>
@@ -92,6 +329,145 @@
 			<string>Debug ShareDataExample</string>
 			<key>uniqueIdentifier</key>
 			<string>AE6873F7-C17F-4B0F-8B86-8EF8C25B47E9</string>
+		</dict>
+		<key>D33D7EB5-69D9-47C0-8888-A323DD3AA3A5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D33D7EB5-69D9-47C0-8888-A323DD3AA3A5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShareDataExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>shareExtention</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug MobileSafari.app</string>
+			<key>timeStartedRecording</key>
+			<real>574589410.97540796</real>
+			<key>timeStoppedRecording</key>
+			<real>574589868.47646904</real>
+			<key>title</key>
+			<string>Debug MobileSafari.app</string>
+			<key>uniqueIdentifier</key>
+			<string>D33D7EB5-69D9-47C0-8888-A323DD3AA3A5</string>
+		</dict>
+		<key>DACE9C20-D04C-4C4C-8CE1-A88F1B69929F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DACE9C20-D04C-4C4C-8CE1-A88F1B69929F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShareDataExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>shareExtention</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug MobileSafari.app</string>
+			<key>timeStartedRecording</key>
+			<real>574589868.79192305</real>
+			<key>timeStoppedRecording</key>
+			<real>574590271.50690198</real>
+			<key>title</key>
+			<string>Debug MobileSafari.app</string>
+			<key>uniqueIdentifier</key>
+			<string>DACE9C20-D04C-4C4C-8CE1-A88F1B69929F</string>
+		</dict>
+		<key>DAD99D69-8227-44DC-92A5-866BD8A86FF8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DAD99D69-8227-44DC-92A5-866BD8A86FF8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShareDataExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ShareDataExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ShareDataExample</string>
+			<key>timeStartedRecording</key>
+			<real>574587942.39781797</real>
+			<key>timeStoppedRecording</key>
+			<real>574589092.85326004</real>
+			<key>title</key>
+			<string>Debug ShareDataExample</string>
+			<key>uniqueIdentifier</key>
+			<string>DAD99D69-8227-44DC-92A5-866BD8A86FF8</string>
+		</dict>
+		<key>F8FFFB8E-46B6-41E2-B7BB-C45324D69CA7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F8FFFB8E-46B6-41E2-B7BB-C45324D69CA7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShareDataExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ShareDataExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ShareDataExample</string>
+			<key>timeStartedRecording</key>
+			<real>574586163.08344901</real>
+			<key>timeStoppedRecording</key>
+			<real>574587941.61049199</real>
+			<key>title</key>
+			<string>Debug ShareDataExample</string>
+			<key>uniqueIdentifier</key>
+			<string>F8FFFB8E-46B6-41E2-B7BB-C45324D69CA7</string>
+		</dict>
+		<key>FE919C34-5489-4A07-AA45-6A6302481D6C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FE919C34-5489-4A07-AA45-6A6302481D6C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>Debug iOS.ShareDataExample.shareExtention</string>
+			<key>timeStartedRecording</key>
+			<real>574589426.27859294</real>
+			<key>timeStoppedRecording</key>
+			<real>574589868.69786</real>
+			<key>title</key>
+			<string>Debug iOS.ShareDataExample.shareExtention</string>
+			<key>uniqueIdentifier</key>
+			<string>FE919C34-5489-4A07-AA45-6A6302481D6C</string>
 		</dict>
 	</dict>
 </dict>

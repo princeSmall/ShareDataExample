@@ -90,3 +90,33 @@
 消费者：
 ![设置](https://raw.githubusercontent.com/princeSmall/ShareDataExample/master/documentType.png)
 ![显示](https://raw.githubusercontent.com/princeSmall/ShareDataExample/master/documentShow.png)
+
+#### UIActivityViewController
+
+UIDocumentInteractionController 只允许文件URL，但是UIActivityViewController可以共享一种或者多种类型
+
+* NSString
+* NSAttributedString
+* NSURL
+* UIImage
+* ALAsset
+* UIActivityItemSource
+
+<pre>
+- (void)pressedActivityButton{
+    NSString *text = @"Text to share";
+    NSURL *url = [NSURL URLWithString:@"https://github.com"];
+    UIImage *image = [UIImage imageNamed:@"Group"];
+    NSArray *items = @[text,url,image];
+    self.activityViewController = [[UIActivityViewController alloc]initWithActivityItems:items applicationActivities:nil];
+    self.activityViewController.excludedActivityTypes = @[UIActivityTypePostToFacebook];
+    [self presentViewController:self.activityViewController animated:YES completion:nil];
+}
+- (UIDocumentInteractionController *)interactionController{
+    if (!_interactionController) {
+        _interactionController = [UIDocumentInteractionController interactionControllerWithURL:[[NSBundle mainBundle]URLForResource:@"shareData" withExtension:@"pdf"]];
+        _interactionController.delegate = self;
+    }
+    return _interactionController;
+}
+</pre>

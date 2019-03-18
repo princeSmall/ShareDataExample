@@ -44,6 +44,49 @@
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
 		</data>
+		<key>PlugIns/shareExtention.appex/Base.lproj/MainInterface.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Bgt43YuQd48Y7NBkKAH/I1Nd+7Q=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/shareExtention.appex/Base.lproj/MainInterface.storyboardc/UIViewController-j1y-V4-xli.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BrSBB1lh47X5f753TOT/k4meteU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/shareExtention.appex/Base.lproj/MainInterface.storyboardc/j1y-V4-xli-view-wbc-yd-nQP.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8znIUzZxpggNpL7VlmfaHmvKtBw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/shareExtention.appex/Info.plist</key>
+		<data>
+		oNcBRY9N3zws0EipqAFfUahIyWo=
+		</data>
+		<key>PlugIns/shareExtention.appex/_CodeSignature/CodeResources</key>
+		<data>
+		ItPT95tmPuIIo8vKCi4zH7Bpi5Q=
+		</data>
+		<key>PlugIns/shareExtention.appex/embedded.mobileprovision</key>
+		<data>
+		JkspoMo13ew/nMf04HDanAXi0xk=
+		</data>
+		<key>PlugIns/shareExtention.appex/shareExtention</key>
+		<data>
+		vQf6C68uh6Jop5Bd0vtZDLVxg4c=
+		</data>
 		<key>ShareDataExample.momd/ShareDataExample.mom</key>
 		<data>
 		+bfxD2Bs3/P5tzub3hjzUUS48Ig=
@@ -121,6 +164,61 @@
 			<key>hash2</key>
 			<data>
 			nAyqHq868Q2XK+yEvXJTuMvbaaVrIO5zf034moNGkZE=
+			</data>
+		</dict>
+		<key>PlugIns/shareExtention.appex/Base.lproj/MainInterface.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Qnp5pVqL/lRCSEISDYZs1VBLxfcEnfpOzHg6WgcgLgk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/shareExtention.appex/Base.lproj/MainInterface.storyboardc/UIViewController-j1y-V4-xli.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TBS3LAWOFLbMjZpxzITmKdjKBRLG2Ft9LLQiuixdvQ8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/shareExtention.appex/Base.lproj/MainInterface.storyboardc/j1y-V4-xli-view-wbc-yd-nQP.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mMTD0lGjzSlPHhL0W0idu7duvBfND3ECtuS8H2g5cHI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/shareExtention.appex/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zv67A7NNA1KvNWFDmGNpzLl41hOVw/b+UlTtW6s/290=
+			</data>
+		</dict>
+		<key>PlugIns/shareExtention.appex/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xFvF5ycfiz3ZBHmxmG6NGPRtYEKD2mw86VA5nI8GDiU=
+			</data>
+		</dict>
+		<key>PlugIns/shareExtention.appex/embedded.mobileprovision</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zUT5OejGFeH52UjeuwCzYu8T015+Hx2sTAWq5GYTPlE=
+			</data>
+		</dict>
+		<key>PlugIns/shareExtention.appex/shareExtention</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cSUJxnrt9NKLmRezuUwJN46tYFM1+FTl0EKlilC7jp4=
 			</data>
 		</dict>
 		<key>ShareDataExample.momd/ShareDataExample.mom</key>
