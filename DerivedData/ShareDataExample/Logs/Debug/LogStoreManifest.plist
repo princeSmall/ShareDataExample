@@ -6,6 +6,64 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
+		<key>5085B9EC-5A4E-4F75-9B7C-A64F9282A09F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5085B9EC-5A4E-4F75-9B7C-A64F9282A09F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShareDataExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ShareDataExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ShareDataExample</string>
+			<key>timeStartedRecording</key>
+			<real>574585616.51829803</real>
+			<key>timeStoppedRecording</key>
+			<real>574585858.19142795</real>
+			<key>title</key>
+			<string>Debug ShareDataExample</string>
+			<key>uniqueIdentifier</key>
+			<string>5085B9EC-5A4E-4F75-9B7C-A64F9282A09F</string>
+		</dict>
+		<key>9DDFA3F6-62EA-4997-9173-6CBCC012319B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9DDFA3F6-62EA-4997-9173-6CBCC012319B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShareDataExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ShareDataExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ShareDataExample</string>
+			<key>timeStartedRecording</key>
+			<real>574585602.26463306</real>
+			<key>timeStoppedRecording</key>
+			<real>574585616.46048999</real>
+			<key>title</key>
+			<string>Debug ShareDataExample</string>
+			<key>uniqueIdentifier</key>
+			<string>9DDFA3F6-62EA-4997-9173-6CBCC012319B</string>
+		</dict>
 		<key>AE6873F7-C17F-4B0F-8B86-8EF8C25B47E9</key>
 		<dict>
 			<key>className</key>

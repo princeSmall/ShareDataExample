@@ -15,7 +15,7 @@
 			<string>ShareDataPDF</string>
 			<key>LSItemContentTypes</key>
 			<array>
-				<string>com.sharedata.pdf</string>
+				<string>com.adobe.pdf</string>
 			</array>
 		</dict>
 	</array>

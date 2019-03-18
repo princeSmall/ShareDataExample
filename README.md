@@ -60,6 +60,7 @@
 
 #### UIDocumentInteractionController
 
+发布者
 <pre>
 /**
  分享
@@ -85,3 +86,7 @@
     return self;
 }
 </pre>
+
+消费者：
+![设置](https://raw.githubusercontent.com/princeSmall/ShareDataExample/master/documentType.png)
+![显示](https://raw.githubusercontent.com/princeSmall/ShareDataExample/master/documentShow.png)
