@@ -11,6 +11,7 @@
 
 #import "ShareDataMainViewController.h"
 #import "PasteboardViewController.h"
+#import "DocumentInteractionViewController.h"
 
 @interface ShareDataMainViewController ()<UITableViewDelegate,UITableViewDataSource>
 @property (nonatomic, strong) UITableView *shareDataTableView;
@@ -37,7 +38,20 @@
     return cell;
 }
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath{
-    [self.navigationController pushViewController:[PasteboardViewController new] animated:YES];
+    switch (indexPath.row) {
+        case 0:{
+           [self.navigationController pushViewController:[PasteboardViewController new] animated:YES];
+        }
+            break;
+        case 1:{
+            [self.navigationController pushViewController:[DocumentInteractionViewController new] animated:YES];
+        }
+            break;
+            
+        default:
+            break;
+    }
+    
 }
 - (UITableView *)shareDataTableView{
     if (!_shareDataTableView) {
@@ -51,7 +65,7 @@
 }
 - (NSArray *)shareDataArray{
     if (!_shareDataArray) {
-        _shareDataArray = [NSArray arrayWithObjects:@"Pasteboard", nil];
+        _shareDataArray = [NSArray arrayWithObjects:@"Pasteboard",@"DocumentInteraction", nil];
     }
     return _shareDataArray;
 }

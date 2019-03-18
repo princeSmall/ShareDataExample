@@ -56,3 +56,32 @@
 ![FirstMethod](https://raw.githubusercontent.com/princeSmall/ShareDataExample/master/URLType.png)
 
 ![SecondMethod](https://raw.githubusercontent.com/princeSmall/ShareDataExample/master/URLTypeF.png)
+
+
+#### UIDocumentInteractionController
+
+<pre>
+/**
+ 分享
+ */
+- (void)pressedShareButton{
+    [self.interactionController presentOpenInMenuFromRect:self.view.bounds inView:self.view animated:YES];
+}
+
+/**
+ 预览
+ */
+- (void)pressedLookButton{
+    [self.interactionController presentPreviewAnimated:YES];
+}
+- (UIDocumentInteractionController *)interactionController{
+    if (!_interactionController) {
+        _interactionController = [UIDocumentInteractionController interactionControllerWithURL:[[NSBundle mainBundle]URLForResource:@"shareData" withExtension:@"pdf"]];
+        _interactionController.delegate = self;
+    }
+    return _interactionController;
+}
+- (UIViewController *)documentInteractionControllerViewControllerForPreview:(UIDocumentInteractionController *)controller{
+    return self;
+}
+</pre>

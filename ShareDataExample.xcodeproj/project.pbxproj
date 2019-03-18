@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C1D1739223F47E80032977E /* Group.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C1D1738223F47E80032977E /* Group.png */; };
+		1C47EF6E223BA0010056E937 /* DocumentInteractionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C47EF6D223BA0010056E937 /* DocumentInteractionViewController.m */; };
+		1C47EF70223BA5AD0056E937 /* shareData.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 1C47EF6F223BA5AD0056E937 /* shareData.pdf */; };
 		1CF3A02E223A20F900872928 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CF3A02D223A20F900872928 /* AppDelegate.m */; };
 		1CF3A031223A20F900872928 /* PasteboardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CF3A030223A20F900872928 /* PasteboardViewController.m */; };
 		1CF3A034223A20F900872928 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1CF3A032223A20F900872928 /* Main.storyboard */; };
@@ -18,6 +21,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1C1D1738223F47E80032977E /* Group.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Group.png; sourceTree = "<group>"; };
+		1C47EF6C223BA0010056E937 /* DocumentInteractionViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DocumentInteractionViewController.h; sourceTree = "<group>"; };
+		1C47EF6D223BA0010056E937 /* DocumentInteractionViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DocumentInteractionViewController.m; sourceTree = "<group>"; };
+		1C47EF6F223BA5AD0056E937 /* shareData.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = shareData.pdf; sourceTree = "<group>"; };
+		1CDB8D50223B8BDD00FC9260 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		1CDB8D52223B8BF100FC9260 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1CF3A029223A20F900872928 /* ShareDataExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShareDataExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1CF3A02C223A20F900872928 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		1CF3A02D223A20F900872928 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -44,11 +53,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1CDB8D4F223B8BDD00FC9260 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1CDB8D52223B8BF100FC9260 /* Foundation.framework */,
+				1CDB8D50223B8BDD00FC9260 /* UIKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		1CF3A020223A20F900872928 = {
 			isa = PBXGroup;
 			children = (
 				1CF3A02B223A20F900872928 /* ShareDataExample */,
 				1CF3A02A223A20F900872928 /* Products */,
+				1CDB8D4F223B8BDD00FC9260 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -67,9 +86,13 @@
 				1CF3A02D223A20F900872928 /* AppDelegate.m */,
 				1CF3A045223A4CF600872928 /* ShareDataMainViewController.h */,
 				1CF3A046223A4CF600872928 /* ShareDataMainViewController.m */,
+				1C47EF6C223BA0010056E937 /* DocumentInteractionViewController.h */,
+				1C47EF6D223BA0010056E937 /* DocumentInteractionViewController.m */,
 				1CF3A02F223A20F900872928 /* PasteboardViewController.h */,
 				1CF3A030223A20F900872928 /* PasteboardViewController.m */,
 				1CF3A032223A20F900872928 /* Main.storyboard */,
+				1C47EF6F223BA5AD0056E937 /* shareData.pdf */,
+				1C1D1738223F47E80032977E /* Group.png */,
 				1CF3A038223A20FD00872928 /* Assets.xcassets */,
 				1CF3A03A223A20FD00872928 /* LaunchScreen.storyboard */,
 				1CF3A03D223A20FD00872928 /* Info.plist */,
@@ -136,8 +159,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1C1D1739223F47E80032977E /* Group.png in Resources */,
 				1CF3A03C223A20FD00872928 /* LaunchScreen.storyboard in Resources */,
 				1CF3A039223A20FD00872928 /* Assets.xcassets in Resources */,
+				1C47EF70223BA5AD0056E937 /* shareData.pdf in Resources */,
 				1CF3A034223A20F900872928 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -149,6 +174,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1C47EF6E223BA0010056E937 /* DocumentInteractionViewController.m in Sources */,
 				1CF3A047223A4CF600872928 /* ShareDataMainViewController.m in Sources */,
 				1CF3A031223A20F900872928 /* PasteboardViewController.m in Sources */,
 				1CF3A037223A20F900872928 /* ShareDataExample.xcdatamodeld in Sources */,
@@ -296,7 +322,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 9TR8XAZ6W8;
+				DEVELOPMENT_TEAM = 3F7H4D8NK3;
 				INFOPLIST_FILE = ShareDataExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -313,7 +339,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 9TR8XAZ6W8;
+				DEVELOPMENT_TEAM = 3F7H4D8NK3;
 				INFOPLIST_FILE = ShareDataExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
